@@ -1,0 +1,9 @@
+a:hover {
+    color: brown;
+}
+.form_link:visited{
+    color: darkmagenta;
+}
+input[type="text"] {
+    background-color: darkorange;
+}
